@@ -396,24 +396,6 @@ cd frontend
 npm test
 ```
 
-## 🚢 Deployment
-
-### Live Demo
-
-Experience QuizCraft AI in action:
-
-- **Backend API**: [https://quizcraft-ai-production.up.railway.app](https://quizcraft-ai-production.up.railway.app/)
-- **Frontend App**: [https://quizcraft-ai-frontend-production.up.railway.app](https://quizcraft-ai-frontend-production.up.railway.app/)
-
-### 📹 Presentation Video
-
-Watch our complete project walkthrough and demo:
-- [View Presentation on Google Drive](https://drive.google.com/drive/folders/1k0w04_5ctaTFTXer7D9_Ie8dTbIAP6Mv?usp=sharing)
-
-### Deploy Your Own Instance
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -445,4 +427,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Email: saurabhguptavishal@gmail.com
+- Email: knowvikas24@gmail.com
