@@ -231,7 +231,7 @@ docker run -p 8000:8000 --env-file .env quizcraft-backend
 
 ## 🙏 Acknowledgements
 
-- **Vikas Gupta** for initial platform concept and core architecture.
-- [FastAPI](https://fastapi.tiangolo.com/) & [Next.js](https://nextjs.org/) open-source teams.
+- [FastAPI](https://fastapi.tiangolo.com/) & [Next.js](https://nextjs.org/) open-source frameworks.
 - [LangChain](https://www.langchain.com/) and [ChromaDB](https://www.trychroma.com/) for document parsing and vector retrieval infrastructure.
 - [Mem0](https://mem0.ai/) for intelligent context memory layer.
+- [Supabase](https://supabase.com/) for authentication and database services.
